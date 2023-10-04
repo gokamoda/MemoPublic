@@ -587,6 +587,7 @@ var stopwords = /* @__PURE__ */ new Set([
 
 // main.ts
 var path = require("path");
+console.log(path)
 var NAMING_TYPES = [
   "identifier",
   "first-3-title-terms",
@@ -597,7 +598,7 @@ var NAMING_TYPES = [
   "all-title-terms"
 ];
 var DEFAULT_SETTINGS = {
-  folderLocation: "",
+  folderLocation: "Papers",
   fileNaming: NAMING_TYPES[0]
 };
 var STRING_MAP = /* @__PURE__ */ new Map([
