@@ -1,1 +1,6 @@
-{}
+{
+  "showInlineTitle": false,
+  "showUnsupportedFiles": false,
+  "showLineNumber": true,
+  "newFileLocation": "current"
+}

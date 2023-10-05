@@ -1,3 +1,10 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "moonstone",
+  "translucency": false,
+  "nativeMenus": true,
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "inlinecode_highlight"
+  ]
 }
