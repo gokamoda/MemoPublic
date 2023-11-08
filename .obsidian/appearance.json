@@ -6,5 +6,6 @@
   "showViewHeader": true,
   "enabledCssSnippets": [
     "inlinecode_highlight"
-  ]
+  ],
+  "baseFontSize": 19
 }
